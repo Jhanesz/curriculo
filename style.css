@@ -1,0 +1,30 @@
+.main{
+    text-align: center;
+    display: grid;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 4rem;
+  box-shadow: 2px 2px 16px rgba(0,0,0.16);
+  text-align: center;
+  border-radius: 50px;
+  background: #eee;
+  color: black;
+}
+body {
+    font-family: "Source Code Pro", monospace;
+    background: url(img/logica-de-programacao.png) no-repeat top center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    height: 100vh;
+    color: #aeaeae;
+  }
+  .sub{
+      color: #aeaeae;
+  }
+  .foto{
+      margin-left: 370px;
+      border-radius: 110px;
+  }
